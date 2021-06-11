@@ -1,0 +1,3 @@
+Write a program in which you ask the user how many circles he/she wishes to enter. A valid number of circles would be between 0 and 1000 inclusive. Next you get this many VALID circles from the user. A valid circle is defined by a radius that must be greater than 0 and less than 100. Next you compute the area(A = pi*r^2) and circumference (C = 2*pi*r) of the circle. Finally you must output the circles such that 500 < area < 1000 OR circumference < 80. Obviously some of the circles will not be output to the screen. 
+
+Obviously you don’t have to include the borders but the output must be right-aligned displaying 3 decimal places for all measures. 
